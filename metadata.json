@@ -1,0 +1,6 @@
+{
+  "name": "FAST SERVICE BD",
+  "description": "Fast • Safe • Reliable — সার্ভিস অর্ডার, ওয়ালেট ডিপোজিট (bKash/Nagad/Rocket), অর্ডার ট্র্যাকিং ও অ্যাডমিন প্যানেল",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
